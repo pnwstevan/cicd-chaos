@@ -1,4 +1,4 @@
-# cicd-chaos
+## cicd-chaos
 ===
 
 This is the code repo for the Gremlin Conf CI/CD Pipeline and Chaos Experiments workshop. The sectoion below will guide you through the different exercises in this workshop
